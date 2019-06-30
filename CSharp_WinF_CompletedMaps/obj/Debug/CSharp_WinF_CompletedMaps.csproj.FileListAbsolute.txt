@@ -1,0 +1,12 @@
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\bin\Debug\CSharp_WinF_CompletedMaps.exe.config
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\bin\Debug\CSharp_WinF_CompletedMaps.exe
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\bin\Debug\CSharp_WinF_CompletedMaps.pdb
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.csprojAssemblyReference.cache
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.Insert.resources
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.List.resources
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.Menu.resources
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.Properties.Resources.resources
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.csproj.GenerateResource.cache
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.exe
+C:\Users\Joao\source\repos\CSharp_WinF_CompletedMaps\obj\Debug\CSharp_WinF_CompletedMaps.pdb

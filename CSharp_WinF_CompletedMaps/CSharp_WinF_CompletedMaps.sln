@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_WinF_CompletedMaps", "CSharp_WinF_CompletedMaps.csproj", "{21386E77-5E00-4392-ABFD-E4930DD8946D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21386E77-5E00-4392-ABFD-E4930DD8946D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21386E77-5E00-4392-ABFD-E4930DD8946D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21386E77-5E00-4392-ABFD-E4930DD8946D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21386E77-5E00-4392-ABFD-E4930DD8946D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845762E8-B333-4A52-B592-C2183787A4FE}
+	EndGlobalSection
+EndGlobal
